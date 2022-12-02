@@ -84,6 +84,7 @@
 
 ![11](https://user-images.githubusercontent.com/94855641/205321591-39261bf5-cee0-4ada-80d3-90be81a2fd6d.png)
 
+Код задания находится в этом [репозитории](https://github.com/Nesmiyanovvv/TheFirstLabGameDev/blob/66e22f0c921fd084472d921d97d0a71abe86dab7/program.ipynb).
 
 # Задание 3
 
